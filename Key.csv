@@ -1,5 +1,6 @@
 Key,Validity,Key_Owner,Email,Mobile_No,Status,DB_URL
 cc20-25Gl-i9Lt-29q1,0,Paras Desai,p.desai@transasia.co.in,9004749905,Active,https://raw.githubusercontent.com/DesaiParas/AutoMailerSupport/refs/heads/main/S_DB.PPD
 fg2d-2504-i92n-5pq3,360,Nitin Sawant,n.sawant@transasia.co.in,8454947342,Active,https://raw.githubusercontent.com/DesaiParas/AutoMailerSupport/refs/heads/main/S_DB_NS.PPD
-0000-0000-0000-0000,0,System Default,git.ppd,9876543210,Active(for limited period only),https://raw.githubusercontent.com/DesaiParas/AutoMailerSupport/refs/heads/main/DB.ppd
+0000-0000-0000-0000,0,System Default,git.ppd@gmail.com,9876543210,Active(for limited period only),https://raw.githubusercontent.com/DesaiParas/AutoMailerSupport/refs/heads/main/DB.ppd
+
 
